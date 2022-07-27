@@ -230,6 +230,7 @@ header::before {
         top: 80vh;
     }
 
+
     100% {
         left: 0px;
         top: 0px;
@@ -285,6 +286,8 @@ header::before {
         top: 0px;
     }
 } */
+
+/**/
 
 a[href^="#"] {
     color: rgb(62, 209, 99);
